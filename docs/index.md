@@ -13,6 +13,14 @@
 
 # About The Project
 
+## View the stages of development
+- [Planning](https://github.com/KeithButler-WIT/GameDesign-Assignment01)  
+- [Prototype](https://github.com/KeithButler-WIT/GameDesign-Assignment02)  
+- [Final Game](https://github.com/KeithButler-WIT/GameDesign-Assignment03)  
+
+- [Playable Game](https://keithbutler-wit.github.io/GameDesign-Assignment03/Pandoras_Box.html)  
+
+
 ## The Box Within
 
 This is a group assignment for the Game Design module.  
