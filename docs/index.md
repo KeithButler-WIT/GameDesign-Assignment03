@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KeithButler-WIT/GameDesign-Assignment03/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#team">Team</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#support or contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About The Project
 
-### Markdown
+## The Box Within
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a group assignment for the Game Design module.  
+Submitted 23-12-2020
 
-```markdown
-Syntax highlighted code block
+<!-- CONTRIBUTING -->
+## Contributing
 
-# Header 1
-## Header 2
-### Header 3
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-- Bulleted
-- List
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-1. Numbered
-2. List
+### Team
 
-**Bold** and _Italic_ and `Code` text
+The team making this game conists of Keith Butler, Ryan Egan and Daniel.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- LICENSE -->
+### License
 
-### Jekyll Themes
+Distributed under the MIT License. See `LICENSE` for more information.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KeithButler-WIT/GameDesign-Assignment03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+<!-- CONTACT -->
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Keith - [KeithButler-WIT](https://github.com/KeithButler-WIT)  
+Ryan - [RyanoEgan](https://github.com/RyanoEgan)  
+Daniel - [DLL19](https://github.com/DLL19)  
+
+Check out the repository [here](https://github.com/KeithButler-WIT/GameDesign-Assignment02/tree/main)
